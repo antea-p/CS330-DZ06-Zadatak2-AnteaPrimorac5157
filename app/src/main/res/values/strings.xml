@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CS330-DZ06-Zadatak2-AnteaPrimorac-5157</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_text_view">Izaberite neku od opcija u Action Bar-u!</string>
+    <string name="on_option_selected_text_view">Da li ste student %1$s-a?</string>
+    <string name="confirmation_text_view">Potvrdili ste da ste student %1$s-a!</string>
+    <string name="rejection_text_view">Niste student %1$s-a!</string>
+    <string name="prompt_text_view">Molim, prvo izaberite neku od ponuđenih opcija!</string>
+    <string name="confirm">DA</string>
+    <string name="reject">NE</string>
+    <string name="fit">FIT</string>
+    <string name="fam">Fakultet za menadžment</string>
+    <string name="fdu">Fakultet digitalnih umetnosti</string>
+</resources>
